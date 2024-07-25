@@ -1,0 +1,17 @@
+footer {
+    position: relative;
+    bottom: 0;
+    height: 10svh;
+    width: 100svw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(90deg, #636363 0%, #a2ab58 100%);
+}
+
+.legal {
+    color: #ffff;
+    font-size: clamp(14px, 10%, 16px);
+    padding: 10px;
+}
