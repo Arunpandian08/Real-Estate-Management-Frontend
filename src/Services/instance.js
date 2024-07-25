@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // define the base url for the API
-const baseURL = 'http://localhost:8080/api';
+const baseURL = 'https://real-estate-management-backend-k1v9.onrender.com/api';
 
 // create an axios instance
 const instance = axios.create({
